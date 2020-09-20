@@ -23,7 +23,7 @@ email: dimax.devel@gmail.com
 description: 技術に関することを中心に気ままに更新していこうと思います。
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://dimax-devel.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: @dimax_devel
+twitter_username: dimax_devel
 github_username:  dimax-devel
 
 # Build settings
