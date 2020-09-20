@@ -22,8 +22,8 @@ title: だいまっくすの怠惰な手記
 email: dimax.devel@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   技術に関することを中心に気ままに更新していこうと思います。
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/blog" # the subpath of your site, e.g. /blog
+url: "https://dimax-devel.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: @dimax_devel
 github_username:  dimax-devel
 
