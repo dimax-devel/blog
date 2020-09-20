@@ -18,17 +18,17 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: ‚¾‚¢‚Ü‚Á‚­‚·‚Ì‘Ó‘Ä‚Èè‹L
+title: ã ã„ã¾ã£ãã™ã®æ€ æƒ°ãªæ‰‹è¨˜
 email: dimax.devel@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  ‹Zp‚ÉŠÖ‚·‚é‚±‚Æ‚ğ’†S‚É‹C‚Ü‚Ü‚ÉXV‚µ‚Ä‚¢‚±‚¤‚Æv‚¢‚Ü‚·B
+  æŠ€è¡“ã«é–¢ã™ã‚‹ã“ã¨ã‚’ä¸­å¿ƒã«æ°—ã¾ã¾ã«æ›´æ–°ã—ã¦ã„ã“ã†ã¨æ€ã„ã¾ã™ã€‚
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://dimax-devel.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: @dimax_devel
 github_username:  dimax-devel
 
 # Build settings
-theme: minima
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
 
