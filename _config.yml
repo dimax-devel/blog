@@ -30,7 +30,7 @@ twitter_username: dimax_devel
 github_username:  dimax-devel
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
 
